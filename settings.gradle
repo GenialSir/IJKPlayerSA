@@ -1,0 +1,4 @@
+rootProject.name='IJKPlayerSA'
+include ':app'
+include ':ijkplayer-exo'
+include ':ijkplayer-java'
